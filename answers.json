@@ -1,0 +1,386 @@
+[
+  {
+    "type": "unanswerable",
+    "q": "What is the cost per cubic metre of the foam concrete mixes?",
+    "refused": true,
+    "answer": "I could not find this in the document."
+  },
+  {
+    "type": "unanswerable",
+    "q": "What is the price of ceramic tile waste powder per tonne?",
+    "refused": true,
+    "answer": "I could not find this in the document."
+  },
+  {
+    "type": "unanswerable",
+    "q": "What is the capital of Australia?",
+    "refused": true,
+    "answer": "I could not find this in the document."
+  },
+  {
+    "type": "unanswerable",
+    "q": "Who won the 2022 FIFA World Cup?",
+    "refused": true,
+    "answer": "I could not find this in the document."
+  },
+  {
+    "type": "answerable",
+    "q": "What does the Rapid Chloride Penetration Test measure?",
+    "expected_pages": [
+      52
+    ],
+    "must_contain": [
+      "electrical charge passed through a saturated"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The Rapid Chloride Penetration Test (RCPT) measures the total electrical charge passed through a saturated concrete specimen under an applied potential difference of 60 V over 6 hours. A lower charge indicates lower chloride-ion penetrability and, consequently, better durability. Source: p. 62",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What size were the cylindrical specimens used for the RCPT?",
+    "expected_pages": [
+      52
+    ],
+    "must_contain": [
+      "100 mm in diameter and 150 mm"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The cylindrical specimens used for the RCPT measured 100 mm in diameter and 150 mm in height. Source: p. 52",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What voltage and duration were used in the RCPT?",
+    "expected_pages": [
+      53
+    ],
+    "must_contain": [
+      "60 V DC"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The test measures the total electrical charge passed through a saturated concrete specimen under an applied direct current voltage of 60 V for six hours. \n\nSource: p. 41",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "How much NaCl was dissolved in the sodium chloride electrolyte solution?",
+    "expected_pages": [
+      53
+    ],
+    "must_contain": [
+      "60 g of NaCl"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "60 g of NaCl was dissolved in 2 litres of distilled water. Source: p. 53",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What size were the cube specimens in the acid resistance test and how long were they immersed?",
+    "expected_pages": [
+      54
+    ],
+    "must_contain": [
+      "cut into four cube specimens"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The cube specimens in the acid resistance test measured 100 x 100 x 100 mm and were immersed in hydrochloric acid (HCl) and sulphuric acid (H₂SO₄) for 28 days. Source: p. 54",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What formula was used to calculate percentage weight loss from acid exposure?",
+    "expected_pages": [
+      56
+    ],
+    "must_contain": [
+      "percentage weight loss due to acid exposure was determined"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "Weight Loss (%) = (Wi−Wf )/Wi × 100 \n\nSource: p. 56",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "Which standard was used to measure compressive strength after acid exposure?",
+    "expected_pages": [
+      56
+    ],
+    "must_contain": [
+      "IS 516"
+    ],
+    "refused": false,
+    "cited": false,
+    "answer": "The standard used to measure compressive strength after acid exposure is IS 516.",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "Which standard was followed for the water absorption test?",
+    "expected_pages": [
+      58,
+      67,
+      70,
+      71,
+      101
+    ],
+    "must_contain": [
+      "ASTM C642"
+    ],
+    "refused": false,
+    "cited": false,
+    "answer": "According to passage [3], the water absorption test was determined in accordance with ASTM C642.",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "Which standard was followed for the water sorptivity test?",
+    "expected_pages": [
+      58
+    ],
+    "must_contain": [
+      "C1585"
+    ],
+    "refused": false,
+    "cited": false,
+    "answer": "The standard followed for the water sorptivity test is ASTM C1585.",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "How was the Cantabro abrasion test carried out on the foam concrete specimens?",
+    "expected_pages": [
+      59
+    ],
+    "must_contain": [
+      "without a steel abrasive charge"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The Cantabro abrasion test was carried out on the foam concrete specimens by following the Los Angeles (LA) abrasion methodology of ASTM C1747/C1747M-15 without a steel abrasive charge, using cylindrical specimens (100 mm × 50 mm) at 28 days of curing. Specimens were weighed to obtain the initial mass, placed in the LA abrasion drum, and subjected to mutual tumbling and impact for a fixed number of drum revolutions, after which loose material was removed and the specimens re-weighed to obtain the final mass. Percentage mass loss was calculated as Cantabro Loss (%) = [((Initial Mass - Final Mass) / Initial Mass) × 100].\n\nSource: p. 59",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What does the Los Angeles abrasion test measure?",
+    "expected_pages": [
+      59,
+      87
+    ],
+    "must_contain": [
+      "resistance of concrete and aggregate specimens to surface degradation"
+    ],
+    "refused": false,
+    "cited": false,
+    "answer": "The Los Angeles abrasion test measures the resistance of concrete and aggregate specimens to surface degradation under impact and abrasion loading using steel balls in a rotating drum.",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "How does the pozzolanic reaction of ceramic tile waste powder improve concrete?",
+    "expected_pages": [
+      34
+    ],
+    "must_contain": [
+      "refines the pore structure"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The pozzolanic reaction of ceramic tile waste powder improves concrete by reducing calcium hydroxide content and producing additional calcium silicate hydrate through pozzolanic reactions. This reaction refines the pore structure and contributes to pore refinement, which decreases the availability of calcium hydroxide for acid reactions.\n\nSource: p. 62",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What is the typical dry density range of foam concrete?",
+    "expected_pages": [
+      19
+    ],
+    "must_contain": [
+      "300 to 1800"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The typical dry density range of foam concrete is from 300 to 1800 kg/m³. Source: p. 19",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What is the primary objective of the research?",
+    "expected_pages": [
+      26
+    ],
+    "must_contain": [
+      "primary objective of the present research"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The primary objective of the present research is to evaluate the durability performance of sustainable foam concrete incorporating Ceramic Tile Waste Powder (CTWP) and Construction and Demolition Recycled Fine Aggregate (CD-RFA) under aggressive environmental conditions. \n\nSource: p. 26",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "Which factor governed chloride resistance, CTWP or CD-RFA?",
+    "expected_pages": [
+      98
+    ],
+    "must_contain": [
+      "CTWP was the dominant factor governing chloride"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The results suggest that CTWP had a dominant influence on chloride permeability, whereas CD-RFA played a comparatively secondary role. \n\nSource: p. 63",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "By how much did increasing CTWP content reduce the RCPT charge passed?",
+    "expected_pages": [
+      62,
+      98
+    ],
+    "must_contain": [
+      "6537.9"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "According to the results, increasing the CTWP replacement level produced a significant reduction in the electrical charge passed during the RCPT. The average charge passed decreased from 6537.9 C at 10% CTWP to 3053.9 C at 50%, representing a reduction of approximately 53%. \n\nSource: p. 62",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What abrasion loss was observed at 70% CTWP and how does it compare with the ASTM C131 limit?",
+    "expected_pages": [
+      98,
+      99
+    ],
+    "must_contain": [
+      "58.9%"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "The abrasion loss observed at 70% CTWP was approximately 58.9%, which is more than three times the ASTM C131 acceptability limit of 35%. Source: p. 89",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "At what CTWP level was abrasion loss lowest?",
+    "expected_pages": [
+      87,
+      98
+    ],
+    "must_contain": [
+      "lowest, and often below the control, at around 20% CTWP",
+      "20% CTWP as the optimal replacement level"
+    ],
+    "refused": false,
+    "cited": false,
+    "answer": "According to passage [3], abrasion loss was lowest at 20% CTWP.",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What CTWP and CD-RFA replacement levels does the thesis recommend?",
+    "expected_pages": [
+      99,
+      100
+    ],
+    "must_contain": [
+      "combined with CD-RFA replacement in the range of 10",
+      "consistently performed at or near control levels"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "According to the context passages, the thesis recommends the following CTWP and CD-RFA replacement levels:\n\n* For wear-critical applications, CTWP replacement should not exceed 20%, and CD-RFA content should be limited to 10–20% to avoid exceeding the IS 383:2016 threshold of 30%.\n* A distinct optimum at 20% CTWP, where all CD-RFA combinations recorded lower abrasion loss than the control level.\n\nSource: p. 87",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "Which acid caused greater mass loss, HCl or sulphuric acid, and why?",
+    "expected_pages": [
+      91,
+      93,
+      96,
+      99
+    ],
+    "must_contain": [
+      "consistently higher than under HCl",
+      "expansive gypsum formation"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "According to the text, sulphuric acid (H₂SO₄) caused greater mass loss compared to hydrochloric acid (HCl). This is because the combined decalcification and expansive gypsum-ettringite mechanism associated with sulphuric acid attack governs the severity of acid attack on foam concrete mixes, leading to greater mass loss and more severe strength reduction. Source: p. 99",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "Which simultaneous mix gave the lowest mass loss under both acids?",
+    "expected_pages": [
+      99
+    ],
+    "must_contain": [
+      "30% CTWP combined with 10% CD-RFA gave the lowest mass loss"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "30% CTWP combined with 10% CD-RFA gave the lowest mass loss under both acids. Source: p. 99",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What future extension is suggested for the acid resistance testing?",
+    "expected_pages": [
+      99
+    ],
+    "must_contain": [
+      "Extend acid resistance testing beyond the 28-day"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "According to the document, the acid resistance testing should be extended beyond the 28-day immersion duration to evaluate longer-term HCl and H₂SO₄ exposure trends. Source: p. 101",
+    "grade": "",
+    "notes": ""
+  },
+  {
+    "type": "answerable",
+    "q": "What was the average charge for the 20% CTWP and 30% CD-RFA mix in the RCPT classification table?",
+    "expected_pages": [
+      65
+    ],
+    "must_contain": [
+      "3490.7"
+    ],
+    "refused": false,
+    "cited": true,
+    "answer": "According to Table 4.2, the average charge for the 20% CTWP and 30% CD-RFA mix is 4058.8 and 4696.6, respectively. \n\nSource: p. 66",
+    "grade": "",
+    "notes": ""
+  }
+]

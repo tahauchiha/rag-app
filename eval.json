@@ -1,0 +1,244 @@
+[
+  {
+    "q": "What does the Rapid Chloride Penetration Test measure?",
+    "pages": [
+      52
+    ],
+    "must_contain": [
+      "electrical charge passed through a saturated"
+    ]
+  },
+  {
+    "q": "What size were the cylindrical specimens used for the RCPT?",
+    "pages": [
+      52
+    ],
+    "must_contain": [
+      "100 mm in diameter and 150 mm"
+    ]
+  },
+  {
+    "q": "What voltage and duration were used in the RCPT?",
+    "pages": [
+      53
+    ],
+    "must_contain": [
+      "60 V DC"
+    ]
+  },
+  {
+    "q": "How much NaCl was dissolved in the sodium chloride electrolyte solution?",
+    "pages": [
+      53
+    ],
+    "must_contain": [
+      "60 g of NaCl"
+    ]
+  },
+  {
+    "q": "What size were the cube specimens in the acid resistance test and how long were they immersed?",
+    "pages": [
+      54
+    ],
+    "must_contain": [
+      "cut into four cube specimens"
+    ]
+  },
+  {
+    "q": "What formula was used to calculate percentage weight loss from acid exposure?",
+    "pages": [
+      56
+    ],
+    "must_contain": [
+      "percentage weight loss due to acid exposure was determined"
+    ]
+  },
+  {
+    "q": "Which standard was used to measure compressive strength after acid exposure?",
+    "pages": [
+      56
+    ],
+    "must_contain": [
+      "IS 516"
+    ]
+  },
+  {
+    "q": "Which standard was followed for the water absorption test?",
+    "pages": [
+      58,
+      67,
+      70,
+      71,
+      101
+    ],
+    "must_contain": [
+      "ASTM C642"
+    ]
+  },
+  {
+    "q": "Which standard was followed for the water sorptivity test?",
+    "pages": [
+      58
+    ],
+    "must_contain": [
+      "C1585"
+    ]
+  },
+  {
+    "q": "How was the Cantabro abrasion test carried out on the foam concrete specimens?",
+    "pages": [
+      59
+    ],
+    "must_contain": [
+      "without a steel abrasive charge"
+    ]
+  },
+  {
+    "q": "What does the Los Angeles abrasion test measure?",
+    "pages": [
+      59,
+      87
+    ],
+    "must_contain": [
+      "resistance of concrete and aggregate specimens to surface degradation"
+    ]
+  },
+  {
+    "q": "How does the pozzolanic reaction of ceramic tile waste powder improve concrete?",
+    "pages": [
+      34
+    ],
+    "must_contain": [
+      "refines the pore structure"
+    ]
+  },
+  {
+    "q": "What is the typical dry density range of foam concrete?",
+    "pages": [
+      19
+    ],
+    "must_contain": [
+      "300 to 1800"
+    ]
+  },
+  {
+    "q": "What is the primary objective of the research?",
+    "pages": [
+      26
+    ],
+    "must_contain": [
+      "primary objective of the present research"
+    ]
+  },
+  {
+    "q": "Which factor governed chloride resistance, CTWP or CD-RFA?",
+    "pages": [
+      98
+    ],
+    "must_contain": [
+      "CTWP was the dominant factor governing chloride"
+    ]
+  },
+  {
+    "q": "By how much did increasing CTWP content reduce the RCPT charge passed?",
+    "pages": [
+      62,
+      98
+    ],
+    "must_contain": [
+      "6537.9"
+    ]
+  },
+  {
+    "q": "What abrasion loss was observed at 70% CTWP and how does it compare with the ASTM C131 limit?",
+    "pages": [
+      98,
+      99
+    ],
+    "must_contain": [
+      "58.9%"
+    ]
+  },
+  {
+    "q": "At what CTWP level was abrasion loss lowest?",
+    "pages": [
+      87,
+      98
+    ],
+    "must_contain": [
+      "lowest, and often below the control, at around 20% CTWP",
+      "20% CTWP as the optimal replacement level"
+    ]
+  },
+  {
+    "q": "What CTWP and CD-RFA replacement levels does the thesis recommend?",
+    "pages": [
+      99,
+      100
+    ],
+    "must_contain": [
+      "combined with CD-RFA replacement in the range of 10",
+      "consistently performed at or near control levels"
+    ]
+  },
+  {
+    "q": "Which acid caused greater mass loss, HCl or sulphuric acid, and why?",
+    "pages": [
+      91,
+      93,
+      96,
+      99
+    ],
+    "must_contain": [
+      "consistently higher than under HCl",
+      "expansive gypsum formation"
+    ]
+  },
+  {
+    "q": "Which simultaneous mix gave the lowest mass loss under both acids?",
+    "pages": [
+      99
+    ],
+    "must_contain": [
+      "30% CTWP combined with 10% CD-RFA gave the lowest mass loss"
+    ]
+  },
+  {
+    "q": "What future extension is suggested for the acid resistance testing?",
+    "pages": [
+      99
+    ],
+    "must_contain": [
+      "Extend acid resistance testing beyond the 28-day"
+    ]
+  },
+  {
+    "q": "What was the average charge for the 20% CTWP and 30% CD-RFA mix in the RCPT classification table?",
+    "pages": [
+      65
+    ],
+    "must_contain": [
+      "3490.7"
+    ]
+  },
+  {
+    "q": "What is the cost per cubic metre of the foam concrete mixes?",
+    "pages": [],
+    "must_contain": []
+  },
+  {
+    "q": "What is the price of ceramic tile waste powder per tonne?",
+    "pages": [],
+    "must_contain": []
+  },
+  {
+    "q": "What is the capital of Australia?",
+    "pages": [],
+    "must_contain": []
+  },
+  {
+    "q": "Who won the 2022 FIFA World Cup?",
+    "pages": [],
+    "must_contain": []
+  }
+]

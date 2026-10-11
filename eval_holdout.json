@@ -1,0 +1,87 @@
+[
+  {
+    "q": "Which method was used to design the foam concrete mixes?",
+    "pages": [
+      50,
+      51
+    ],
+    "must_contain": [
+      "ACI 523R"
+    ]
+  },
+  {
+    "q": "What water-to-cement ratio was used in the foam concrete mixes?",
+    "pages": [
+      50,
+      51
+    ],
+    "must_contain": [
+      "water-to-cement ratio of 0.60",
+      "Water-to-cement ratio 0.60"
+    ]
+  },
+  {
+    "q": "What type of foaming agent was used to make the foam concrete?",
+    "pages": [
+      51
+    ],
+    "must_contain": [
+      "protein-based foaming agent"
+    ]
+  },
+  {
+    "q": "How many mixes involved simultaneous replacement of cement and natural fine aggregate?",
+    "pages": [
+      50
+    ],
+    "must_contain": [
+      "Sixteen mixes involved simultaneous replacement"
+    ]
+  },
+  {
+    "q": "Where were the foam concrete specimens originally cast?",
+    "pages": [
+      49
+    ],
+    "must_contain": [
+      "Transportation Engineering Laboratory"
+    ]
+  },
+  {
+    "q": "What were the highest water absorption and sorptivity values observed in the study?",
+    "pages": [
+      98
+    ],
+    "must_contain": [
+      "9.9 mm sorptivity"
+    ]
+  },
+  {
+    "q": "Above what CTWP replacement level does the thesis say mixes should be avoided for durability-sensitive applications?",
+    "pages": [
+      100
+    ],
+    "must_contain": [
+      "CTWP replacement above 50% should be avoided"
+    ]
+  },
+  {
+    "q": "What microstructural investigation methods does the thesis suggest as future work?",
+    "pages": [
+      100
+    ],
+    "must_contain": [
+      "SEM or MIP"
+    ]
+  },
+  {
+    "q": "What superplasticizer dosage was used in the foam concrete mixes?",
+    "pages": [],
+    "must_contain": []
+  },
+  {
+    "q": "What was the split tensile strength of the foam concrete mixes?",
+    "pages": [],
+    "must_contain": []
+  }
+]
